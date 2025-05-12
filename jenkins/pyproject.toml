@@ -1,7 +1,7 @@
 [project]
-name = "mcp-jenkins"
+name = "jenkins"
 version = "0.1.0"
-description = "Add your description here"
+description = "the jenkins mcp server"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
